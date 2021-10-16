@@ -3,12 +3,13 @@
   background-color: #D1E8E4;
   position: relative;
   padding-top: 120px;
+  padding-bottom: 10px;
 }
 
 .middle-container {
   background-color: #D1E8E4;
   position: relative;
-  padding-top: 0;
+  padding-top: 10;
   padding-bottom: 40px;
 }
 
@@ -47,6 +48,8 @@
 
 .music {
   width: 27%;
+  margin-bottom: 25px;
+  margin-top: 30px;
 }
 
 /*************************************TEXTS***********************************/
@@ -74,8 +77,7 @@ body {
 .bio {
   text-align: center;
   font-family: 'Questrial', sans-serif;
-  margin-left: 210px;
-  margin-right: 210px;
+  margin: 0 20%;
   line-height: 150%
 }
 
@@ -83,7 +85,15 @@ h3 {
   margin-top: 0;
 }
 
-.skill-row {}
+.skill {
+  margin-bottom: 40px;
+  margin-top: 10px;
+  font-size: 2em;
+}
+
+.touch {
+  margin-top: 10px;
+}
 
 .intro {
   font-family: 'Questrial', sans-serif;
